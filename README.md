@@ -90,7 +90,13 @@ Steps
 
 ![image](https://github.com/Ayyappa231096/Setup-Simple-AD-in-the-Directory-Service/assets/96643324/9f351ea3-aaab-4f5e-8ee9-8e2269a8794b)
 
+---------------------------------------
 
+
+
+search Active Directory Users and Computer in search bar and click ok
+
+![image](https://github.com/Ayyappa231096/Setup-Simple-AD-in-the-Directory-Service/assets/96643324/1ed71ba8-5ff3-4e1f-b35b-8a1c707f5a7f)
 
 
 
